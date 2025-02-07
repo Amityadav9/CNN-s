@@ -43,8 +43,8 @@ A collection of advanced computer vision projects implementing real-time object 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Amityadav9/CNN-s.git
-cd CNN-s
+git clone https://github.com/Amityadav9/computer-vision-toolkit.git
+cd computer-vision-toolkit
 ```
 
 2. Install required packages:
