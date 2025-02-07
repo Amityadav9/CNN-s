@@ -30,7 +30,7 @@ while True:
     ret, frame = cap.read()
 
     if ret:
-        if counter % 15 == 0:  # 30 FPS otherwise buggy
+        if counter % 15 == 0: 
             try:
                 threading.Thread(target=check_face, args=(frame.copy(),)).start()
             except ValueError:
